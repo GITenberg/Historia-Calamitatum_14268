@@ -1,0 +1,34 @@
+_repo: Historia-Calamitatum_14268
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abelard, Peter
+    aliases:
+    - Abeilard, Pierre
+    - Abélard, Pierre
+    - Abaelardus, Petrus
+    birthdate: 1079
+    deathdate: 1142
+    gutenberg_agent_id: '5441'
+    url: http://www.gutenberg.org/2009/agents/5441
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abelard, Peter, 1079-1142 -- Relations with women'
+- !lcc 'PA'
+- !lcsh 'Theologians -- France -- Biography'
+- !lcsh 'Authors, Latin (Medieval and modern) -- France -- Biography'
+- !lcsh 'Abelard, Peter, 1079-1142'
+title: Historia Calamitatum
+url: http://www.gutenberg.org/ebooks/14268
