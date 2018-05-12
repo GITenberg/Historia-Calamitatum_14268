@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5441
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14268#Historia-Calamitatum
 gutenberg_issued: '2004-12-06'
 gutenberg_type: Text
 identifiers:
